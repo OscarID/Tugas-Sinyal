@@ -10,7 +10,7 @@ print("NRP: 5009211064")
 
 ### B. Hasil dan Script di Spyder
 
-Python Script: 
+Python Script: https://github.com/OscarID/Tugas-Sinyal/commit/f6a925fb2198e01c547b61285660afa48a936cb5
 <img width="960" alt="image" src="https://github.com/OscarID/Tugas-Sinyal/assets/144774084/d2b66fe9-cf60-45a7-91cb-e0ba3f981f81">
 
 ### C. Last Commit Logs
