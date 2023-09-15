@@ -15,4 +15,5 @@ Python Script: https://github.com/OscarID/Tugas-Sinyal/commit/f6a925fb2198e01c54
 
 ### C. Last Commit Logs
 
-![image]
+<img width="917" alt="image" src="https://github.com/OscarID/Tugas-Sinyal/assets/144774084/e720df7f-b305-43fd-b38d-f5fcdeebdd7a">
+
